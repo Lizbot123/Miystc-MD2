@@ -27,10 +27,10 @@ global.owner = [
 ];
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
-global.mods = ['584120346669', '584128382768', '', '', '']
+global.mods = ['5219531627349', '5219533210535', '', '', '']
 
-global.suittag = ['5351524614']
-global.prems = []
+global.suittag = ['5219993404349']
+global.prems = [51995386439]
  
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.8'
