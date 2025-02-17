@@ -500,7 +500,6 @@ await m.react(error)
 handler.help = ['menu']
 handler.tags = ['main']
 handler.command = ['menu', 'help', 'menú'] 
-handler.register = true
 export default handler
 
 const more = String.fromCharCode(8206)
