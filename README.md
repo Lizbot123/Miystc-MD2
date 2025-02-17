@@ -1,5 +1,8 @@
 <h1 align="center">｡･ﾟ♡ﾟ･｡🌹✴️ [ Mʏsᴛɪᴄ - Mᴅ2 ] ✴️🌹｡･ﾟ♡ﾟ･｡/h1>
- <p align="center">🌹 WhatsApp Bot Node-(https://ibb.co/1GK9xGdh)
+ <p align="center">🌹 WhatsApp Bot Node
+   
 > ⚜️ Versión Actual: 2.0.0
-![1000002237](https://github.com/user-attachments/assets/fbce6e98-927a-4941-8156-befd29a0d32c)
-![1000002238](https://github.com/user-attachments/assets/582a8f9f-aff5-4a74-94cb-e32c9adaab05)
+
+   ![1000001905](https://github.com/user-attachments/assets/8a49d8f6-3ccc-47cd-8c6d-651d933c1736)
+
+
