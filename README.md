@@ -3,6 +3,6 @@
    
 > ⚜️ Versión Actual: 2.0.0
 
-   ![1000001905](https://github.com/user-attachments/assets/8a49d8f6-3ccc-47cd-8c6d-651d933c1736)
+   <a href="https://ibb.co/QF2mQ3X0"><img src="https://i.ibb.co/wN96gFYt/1679912093686-1.jpg" alt="1679912093686-1" border="0"></a>
 
 
